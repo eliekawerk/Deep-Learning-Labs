@@ -16,8 +16,11 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 
 ### Lab 3: 
 - Embeddings and Recommender Systems
-		- Short Intro to Embeddings with Keras
-		- Neural Recommender Systems with Explicit Feedback
-		- Neural Recommender Systems with Implicit Feedback and the Triplet Loss
+	- Short Intro to Embeddings with Keras
+	- Neural Recommender Systems with Explicit Feedback
+	- Neural Recommender Systems with Implicit Feedback and the Triplet Loss
 
 ### Lab 4:
+- Deep Learning for Object Dection and Image Segmentation. 
+	- Fully Convolutional Neural Networks 
+	- ConvNets for Classification and Localization
