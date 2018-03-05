@@ -21,6 +21,12 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 	- Neural Recommender Systems with Implicit Feedback and the Triplet Loss
 
 ### Lab 4:
-- Deep Learning for Object Dection and Image Segmentation. 
+- Deep Learning for Object Dection and Image Segmentation (part1)
+	- ConvNets with TensorFlow
+	- Pretrained ConvNets
+	- Fine tuning deep CNNs (with GPU)
+
+### Lab 5:
+- Deep Learning for Object Dection and Image Segmentation (part2)
 	- Fully Convolutional Neural Networks 
 	- ConvNets for Classification and Localization
