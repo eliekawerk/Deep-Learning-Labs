@@ -30,3 +30,11 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 - Deep Learning for Object Dection and Image Segmentation (part2)
 	- Fully Convolutional Neural Networks 
 	- ConvNets for Classification and Localization
+
+### Lab 6: (NLP 1)
+
+- Text Classification, Word Embeddings and Language Models
+	- Word Embeddings (word vectors classification)
+	- Character-level Language Modeling with LSTMs
+	
+### Lab 7: (NLP 2)
