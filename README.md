@@ -42,5 +42,5 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 
 
 ----- 
-Notebooks for Deep Learning - 2017/2018
+Notebooks for Deep Learning - 2017/2018.
 Ideas of the notebooks go to Charles Ollion et Olivier Grisel (Professors of Deep Learning at M2 Data Science)
