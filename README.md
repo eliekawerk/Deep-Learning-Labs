@@ -39,6 +39,16 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 	
 ### Lab 7: (NLP 2)
 
+-  Sequence to Sequence for Machine Translation
+	- Translation of Numeric Phrases with Seq2Seq
+	
+### Lab 8:  Intro to PyTorch 
+
+### Lab 9: Siamese Networks and Triplet loss
+
+### Lab 10: Variational Auto Encoder and GANs
+	
+
 
 
 ----- 
