@@ -43,11 +43,10 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 	- Translation of Numeric Phrases with Seq2Seq
 	
 ### Lab 8:  Intro to PyTorch 
-
+#### An extended intro to PyTorch can be found [here](https://github.com/imadelh/PyTorch-Hands-on)
 - Pytorch Introduction to Autograd
 - Pytorch classification of Fashion MNIST
 - Stochastic Optimization Landscape in Pytorch
-
 ### Lab 9: Siamese Networks and Triplet loss
 
 ### Lab 10: Variational Auto Encoder and GANs
