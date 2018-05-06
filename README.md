@@ -44,6 +44,10 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 	
 ### Lab 8:  Intro to PyTorch 
 
+- Pytorch Introduction to Autograd
+- Pytorch classification of Fashion MNIST
+- Stochastic Optimization Landscape in Pytorch
+
 ### Lab 9: Siamese Networks and Triplet loss
 
 ### Lab 10: Variational Auto Encoder and GANs
