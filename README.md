@@ -1,7 +1,7 @@
 # Deep Learning
 
 This git contains all labs and projects of Deep Learning class at MSc. Data Science.
-You can lunch it online using Binder (check it out it's cool) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imadelhanafi/Deep-Learning-Labs/master)
+You can run it online using Binder (check it out it's cool) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imadelhanafi/Deep-Learning-Labs/master)
 
 ## Table of contents
 
@@ -48,9 +48,13 @@ You can lunch it online using Binder (check it out it's cool) [![Binder](https:/
 - Pytorch classification of Fashion MNIST
 - Stochastic Optimization Landscape in Pytorch
 ### Lab 9: Siamese Networks and Triplet loss
+- Face verification using Siamese Nets
+- Face verification using Triplet loss
+
 
 ### Lab 10: Variational Auto Encoder and GANs
-	
+- VAE on Fashion MNIST
+
 
 
 
